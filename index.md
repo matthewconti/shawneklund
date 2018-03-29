@@ -1,9 +1,4 @@
----
-title: home page
-layout: post
----
-
-## This is a test 22
+## This is a test
 [About](/about.md)
 
 
