@@ -1,4 +1,4 @@
 ## This is a test of the about page
-[Home](/index)
+[Home](/index.md)
 
 Here is my page - 22.
