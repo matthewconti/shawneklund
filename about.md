@@ -1,6 +1,4 @@
----
-title: This is my title
-layout: page
----
+## This is a test of the about page
+[Home] ../index
 
 Here is my page - 22.
