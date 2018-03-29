@@ -2,7 +2,7 @@
 [About](/about.md)
 ---
 title: home page
-layout: page
+layout: post
 ---
 
 This is my homepage
