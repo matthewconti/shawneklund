@@ -4,9 +4,9 @@ Gem::Specification.new do |s|
   s.name          = "jekyll_design"
   s.version       = "0.0.0"
   s.license       = "CC0-1.0"
-  s.authors       = ["Matthew Conti"]
+  s.authors       = ["Shawn Eklund","Matthew Conti"]
   s.email         = ["matthewconti@github.com"]
-  s.homepage      = "https://github.com/matthewconti/jekyll-design/"
+  s.homepage      = "https://github.com/ShawnEklund/shawneklund/"
   s.summary       = "jekyll-design"
 
   s.files         = `git ls-files -z`.split("\x0").select do |f|
