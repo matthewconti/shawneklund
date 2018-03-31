@@ -5,7 +5,7 @@ Gem::Specification.new do |s|
   s.version       = "0.0.0"
   s.license       = "CC0-1.0"
   s.authors       = ["Shawn Eklund","Matthew Conti"]
-  s.email         = ["matthewconti@github.com"]
+  s.email         = ["ShawnEklund@github.com"]
   s.homepage      = "https://github.com/ShawnEklund/shawneklund/"
   s.summary       = "jekyll-design"
 
