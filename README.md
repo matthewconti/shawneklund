@@ -1,15 +1,5 @@
 # The jekyll-design
 
-## Usage
-
-1. Add the following to your site's `_config.yml`:
-
-    ```yml
-    theme: jekyll-design
-    ```
-
-## Customizing
-
 ### Configuration variables
 
 The jekyll-design will respect the following variables, if set in your site's `_config.yml`:
