@@ -2,7 +2,7 @@
 layout: default
 ---
 [About](/about.md)
-
+# NEPA
 ## Welcome
 Welcome to the United States (U.S.) Department of the Navy's Atlantic Fleet Training and Testing (AFTT) Environmental Impact Statement (EIS)/Overseas Environmental Impact Statement (OEIS) website, an online resource for information concerning training and testing activities in sea space in and airspace over the Atlantic Ocean along the eastern coast of North America, portions of the Caribbean Sea, and the Gulf of Mexico (the AFTT Study Area).
 
